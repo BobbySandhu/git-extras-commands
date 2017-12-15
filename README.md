@@ -1,6 +1,6 @@
 # git-extra-commands
 
-	   .   git-alias(1) Define, search and show aliases
+       .   git-alias(1) Define, search and show aliases
 
        ·   git-archive-file(1) Export the current HEAD of the  git  repository
            to a archive
