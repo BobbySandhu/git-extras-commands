@@ -1,4 +1,4 @@
-# git-extra-commands
+# git-extras-commands
    .   **git-alias:**  Define, search and show aliases
 
    ·   **git-archive-file:**  Export the current HEAD of the  git  repository
