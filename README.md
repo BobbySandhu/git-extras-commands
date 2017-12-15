@@ -1,20 +1,20 @@
 # git-extra-commands
-   .   git-alias:  Define, search and show aliases
+   .   **git-alias:**  Define, search and show aliases
 
-   ·   git-archive-file:  Export the current HEAD of the  git  repository
+   ·   **git-archive-file:**  Export the current HEAD of the  git  repository
        to a archive
 
-   ·   git-authors:  Generate authors report
+   ·   **git-authors:**  Generate authors report
 
-   ·   git-back:  Undo and Stage latest commits
+   ·   **git-back:**  Undo and Stage latest commits
 
-   ·   git-bug:  Create bug branch
+   ·   **git-bug:**  Create bug branch
 
-   ·   git-changelog:  Generate a changelog report
+   ·   **git-changelog:**  Generate a changelog report
 
-   ·   git-chore:  Create chore branch
+   ·   **git-chore:**  Create chore branch
 
-   ·   git-clear:  Rigorously clean up a repository
+   ·   **git-clear:**  Rigorously clean up a repository
 
    ·   git-commits-since:  Show commit logs since some date
 
